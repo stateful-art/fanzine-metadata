@@ -1,0 +1,15 @@
+{
+    "name": "Local Zine #1",
+    "description": "A community magazine with lots of artwork, and more!",
+    "image": "https://github.com/stateful-art/fanzine-metadata/blob/master/stateful-art-top.png",
+    "attributes": [
+    {
+    "trait_type": "neighbourhood",
+    "value": "Münzviertel"
+    },
+    {
+    "trait_type": "number of artists in this volume",
+    "value": "12"
+    }
+    ]
+}
