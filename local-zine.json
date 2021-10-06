@@ -1,8 +1,8 @@
 {
-    "name": "Local Zine",
-    "description": "Local Zine - Volume I",
-    "image": "https://github.com/stateful-art/fanzine-metadata/blob/master/stateful-art-top.png",
-    "external_link": "https://github.com/stateful-art",
-    "seller_fee_basis_points": 100, 
-    "fee_recipient": "0xF2Bb8DCD9c246c03a42b029942DDD92Dd0Ea2302" 
-  }
+  "name": "Local Zines - Volume 0",
+  "description": "This genesis volume is on the conception on introducing a local zines in the making of local art taste and heritage that gives back to its contributors and the community.",
+  "image": "https://github.com/stateful-art/fanzine-metadata/blob/master/local-zine-volume-0.png",
+  "external_link": "https://github.com/stateful-art",
+  "seller_fee_basis_points": 100, 
+  "fee_recipient": "0xEd2eF70e8B1EBf95bDfD7ba692454143b2A8263B" 
+}
