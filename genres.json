@@ -1,0 +1,37 @@
+[
+  {
+    "id": "0",
+    "name": "punk",
+    "group": "music"
+  },
+  {
+    "id": "1",
+    "name": "rock",
+    "group": "music"
+  },
+  {
+    "id": "2",
+    "name": "classical",
+    "group": "hybrid"
+  },
+  {
+    "id": "3",
+    "name": "reggae",
+    "group": "music"
+  },
+  {
+    "id": "4",
+    "name": "hip-hop",
+    "group": "music"
+  },
+  {
+    "id": "5",
+    "name": "cubist",
+    "group": "visual-arts"
+  },
+  {
+    "id": "6",
+    "name": "surreal",
+    "group": "hybrid"
+  }
+]
